@@ -1,4 +1,3 @@
-import router from 'umi/router';
 
 function News(props) {
     const {match:{params}} = props
