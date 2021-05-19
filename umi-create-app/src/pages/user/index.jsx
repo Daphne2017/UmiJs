@@ -6,7 +6,7 @@ function User(props) {
       }
   return (
     <div>
-     User:严燕姗
+     User:严燕姗拉拉
      <button onClick={goToListPage}>回到首页</button>
     </div>
   );
